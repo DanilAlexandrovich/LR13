@@ -1,6 +1,5 @@
 import java.time.LocalTime;
 
-// Напишите программу, которая запускает два потока и выводит на экран их имена и текущее время в течение 10 секунд.
 
 public class example1 {
     public static void main(String[] args) throws InterruptedException {
@@ -35,3 +34,4 @@ public class example1 {
         t2.join();
     }
 }
+// Напишите программу, которая запускает два потока и выводит на экран их имена и текущее время в течение 10 секунд.
