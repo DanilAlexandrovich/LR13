@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd065fba-fb47-4058-9a8e-5250e491fdcb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example6.java" afterDir="false" />
-    </list>
+    <list default="true" id="cd065fba-fb47-4058-9a8e-5250e491fdcb" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -101,6 +87,25 @@
       <option name="presentableId" value="Default" />
       <updated>1686488081651</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1686488687978</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686488687978</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1686488703029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686488703029</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
